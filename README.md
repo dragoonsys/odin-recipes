@@ -1,0 +1,1 @@
+This project displays a list of recipes.
